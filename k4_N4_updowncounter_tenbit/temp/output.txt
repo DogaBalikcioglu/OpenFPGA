@@ -1,0 +1,5 @@
+vpr_status=success
+vpr_seconds=0
+rundir=/home/doga/Documents/OpenFPGA/k4_N4_updowncounter_tenbit
+hostname=doga-ubuntu-vm
+error=
